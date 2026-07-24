@@ -1,7 +1,7 @@
 # inbound.ai
 An AI-enabled Inbound Lead Generation project tailored toward businesses. 
 
-Demo (video available in assets folder):
+Demo (video also available in assets folder):
 
 <video src="assets/inbound-remotion.mp4" controls width="100%">
   Your browser does not support the video tag.
